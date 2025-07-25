@@ -1,0 +1,2 @@
+El diseño de las clases en este proyecto, es utilizar la Herencia e interfaces como principal, ya que la clase Mascota, nos servira para darle los metodos a las subclases como lo es Perro, Gato, Conejo, etc. 
+Asi mismo las interfaces, heredan los metodos a otras clases, como lo es la clase Vacunable, que lo podemos implementar en cualquier clase para usar el metodo de que si se debe de vacunar o no.
